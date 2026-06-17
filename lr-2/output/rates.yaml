@@ -1,0 +1,272 @@
+date: 18.06.2026
+rates:
+  AED:
+    name: Дирхам ОАЭ
+    nominal: 1
+    num_code: '784'
+    value: 19.8088
+  AMD:
+    name: Армянских драмов
+    nominal: 100
+    num_code: '051'
+    value: 19.7652
+  AUD:
+    name: Австралийский доллар
+    nominal: 1
+    num_code: '036'
+    value: 51.3527
+  AZN:
+    name: Азербайджанский манат
+    nominal: 1
+    num_code: '944'
+    value: 42.7929
+  BDT:
+    name: Так
+    nominal: 100
+    num_code: '050'
+    value: 59.1931
+  BHD:
+    name: Бахрейнский динар
+    nominal: 1
+    num_code: 048
+    value: 193.4367
+  BOB:
+    name: Боливиано
+    nominal: 1
+    num_code: 068
+    value: 10.5279
+  BRL:
+    name: Бразильский реал
+    nominal: 1
+    num_code: '986'
+    value: 14.3269
+  BYN:
+    name: Белорусский рубль
+    nominal: 1
+    num_code: '933'
+    value: 26.2476
+  CAD:
+    name: Канадский доллар
+    nominal: 1
+    num_code: '124'
+    value: 51.9776
+  CHF:
+    name: Швейцарский франк
+    nominal: 1
+    num_code: '756'
+    value: 91.865
+  CNY:
+    name: Юань
+    nominal: 1
+    num_code: '156'
+    value: 10.7589
+  CUP:
+    name: Кубинских песо
+    nominal: 10
+    num_code: '192'
+    value: 30.3116
+  CZK:
+    name: Чешских крон
+    nominal: 10
+    num_code: '203'
+    value: 34.9212
+  DKK:
+    name: Датская крона
+    nominal: 1
+    num_code: '208'
+    value: 11.284
+  DZD:
+    name: Алжирских динаров
+    nominal: 100
+    num_code: '012'
+    value: 54.7378
+  EGP:
+    name: Египетских фунтов
+    nominal: 10
+    num_code: '818'
+    value: 14.5735
+  ETB:
+    name: Эфиопских быров
+    nominal: 100
+    num_code: '230'
+    value: 45.761
+  EUR:
+    name: Евро
+    nominal: 1
+    num_code: '978'
+    value: 84.3439
+  GBP:
+    name: Фунт стерлингов
+    nominal: 1
+    num_code: '826'
+    value: 97.6859
+  GEL:
+    name: Лари
+    nominal: 1
+    num_code: '981'
+    value: 27.3962
+  HKD:
+    name: Гонконгских долларов
+    nominal: 10
+    num_code: '344'
+    value: 92.8262
+  HUF:
+    name: Форинтов
+    nominal: 100
+    num_code: '348'
+    value: 24.1415
+  IDR:
+    name: Рупий
+    nominal: 10000
+    num_code: '360'
+    value: 41.0564
+  INR:
+    name: Индийских рупий
+    nominal: 100
+    num_code: '356'
+    value: 77.0832
+  IRR:
+    name: Иранских риалов
+    nominal: 1000000
+    num_code: '364'
+    value: 50.1883
+  JPY:
+    name: Иен
+    nominal: 100
+    num_code: '392'
+    value: 45.3569
+  KGS:
+    name: Сомов
+    nominal: 100
+    num_code: '417'
+    value: 83.188
+  KRW:
+    name: Вон
+    nominal: 1000
+    num_code: '410'
+    value: 48.066
+  KZT:
+    name: Тенге
+    nominal: 100
+    num_code: '398'
+    value: 14.9328
+  MDL:
+    name: Молдавских леев
+    nominal: 10
+    num_code: '498'
+    value: 41.8879
+  MMK:
+    name: Кьятов
+    nominal: 1000
+    num_code: '104'
+    value: 34.6419
+  MNT:
+    name: Тугриков
+    nominal: 1000
+    num_code: '496'
+    value: 20.3413
+  NGN:
+    name: Найр
+    nominal: 1000
+    num_code: '566'
+    value: 53.6022
+  NOK:
+    name: Норвежских крон
+    nominal: 10
+    num_code: '578'
+    value: 76.3533
+  NZD:
+    name: Новозеландский доллар
+    nominal: 1
+    num_code: '554'
+    value: 42.4193
+  OMR:
+    name: Оманский риал
+    nominal: 1
+    num_code: '512'
+    value: 189.2013
+  PLN:
+    name: Злотый
+    nominal: 1
+    num_code: '985'
+    value: 19.908
+  QAR:
+    name: Катарский риал
+    nominal: 1
+    num_code: '634'
+    value: 19.9857
+  RON:
+    name: Румынский лей
+    nominal: 1
+    num_code: '946'
+    value: 16.13
+  RSD:
+    name: Сербских динаров
+    nominal: 100
+    num_code: '941'
+    value: 71.9877
+  SAR:
+    name: Саудовский риял
+    nominal: 1
+    num_code: '682'
+    value: 19.3994
+  SEK:
+    name: Шведских крон
+    nominal: 10
+    num_code: '752'
+    value: 77.401
+  SGD:
+    name: Сингапурский доллар
+    nominal: 1
+    num_code: '702'
+    value: 56.7589
+  THB:
+    name: Батов
+    nominal: 10
+    num_code: '764'
+    value: 22.3544
+  TJS:
+    name: Сомони
+    nominal: 10
+    num_code: '972'
+    value: 78.3373
+  TMT:
+    name: Новый туркменский манат
+    nominal: 1
+    num_code: '934'
+    value: 20.7851
+  TRY:
+    name: Турецких лир
+    nominal: 10
+    num_code: '949'
+    value: 15.7279
+  UAH:
+    name: Гривен
+    nominal: 10
+    num_code: '980'
+    value: 16.2361
+  USD:
+    name: Доллар США
+    nominal: 1
+    num_code: '840'
+    value: 72.7479
+  UZS:
+    name: Узбекских сумов
+    nominal: 10000
+    num_code: '860'
+    value: 60.3614
+  VND:
+    name: Донгов
+    nominal: 10000
+    num_code: '704'
+    value: 28.8969
+  XDR:
+    name: СДР (специальные права заимствования)
+    nominal: 1
+    num_code: '960'
+    value: 99.4733
+  ZAR:
+    name: Рэндов
+    nominal: 10
+    num_code: '710'
+    value: 44.8242
